@@ -1,0 +1,2 @@
+Test,Variable,F-statistic,p-value,Alpha,Decision,Conclusion
+One-way ANOVA,primary_energy_consumption,161.28887828001962,4.631611731871997e-45,0.05,Reject H0,There is a statistically significant difference in mean primary energy consumption among the selected countries.
